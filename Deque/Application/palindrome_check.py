@@ -3,7 +3,7 @@ A palindrome is a string that reads the same forward and backward,
 for example, radar, toot, and madam
 '''
 
-from implement_deque import Deque
+from implementation_deque import Deque
 
 
 def palindrome_checker(some_string):
