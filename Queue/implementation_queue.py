@@ -1,5 +1,5 @@
 '''
-Assume the end of queue occurs at end of list (index=0)
+Assume the end of queue occurs at end of list (index=-1)
 '''
 
 class Queue:
